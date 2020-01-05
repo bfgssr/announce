@@ -4,11 +4,11 @@
 ### 亲爱的用户，欢迎来到避风港最新地址发布页，希望通过阅读该页面可以帮助阁下解决问题
 
 #### 记住我们的永久地址
-* [https://www.bfgssr.com](https://www.bfgssr.com)
+* 主网址：[https://www.bfgssr.com](https://www.bfgssr.com)
 
 #### 目前大陆能正常访问地址
 
-
+    备用网址：
 * [https://www.避风港.com](https://www.避风港.com)
 * [https://www.baisussr.site](https://www.baisussr.site)
 * [https://www.baisucloud.site](https://www.baisucloud.site)
