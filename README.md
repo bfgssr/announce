@@ -8,7 +8,6 @@
 
 #### 目前大陆能正常访问地址
 
-    备用网址：
 * [https://www.避风港.com](https://www.避风港.com)
 * [https://www.baisussr.site](https://www.baisussr.site)
 * [https://www.baisucloud.site](https://www.baisucloud.site)
@@ -16,6 +15,7 @@
 * [https://blssr.club](https://blssr.club)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
+
 * [https://www.bfgssr.com](https://www.bfgssr.com)
 
 #### 有任何疑问请联系电报群组管理
