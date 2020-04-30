@@ -9,10 +9,9 @@
 #### 目前大陆能正常访问地址
 
 * [https://www.避风港.site](https://www.避风港.site)
+* [https://www.bfgnet.vip](https://www.bfgnet.vip)
 * [https://www.baisussr.site](https://www.baisussr.site)
 * [https://www.baisucloud.site](https://www.baisucloud.site)
-* [https://nlssr.club](https://nlssr.club)
-* [https://blssr.club](https://blssr.club)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
 
