@@ -9,12 +9,12 @@
 #### 目前大陆能正常访问地址
 
 * [https://www.避风港.site](https://www.避风港.site)
-* [https://www.bfgnet.vip](https://www.bfgnet.vip)
+* [https://www.bfgnet.top](https://www.bfgnet.top)
 * [https://www.baisussr.site](https://www.baisussr.site)
-* [https://www.baisucloud.site](https://www.baisucloud.site)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
 
+* [https://www.baisucloud.site](https://www.baisucloud.site)
 
 
 #### 有任何疑问请联系电报群组管理
