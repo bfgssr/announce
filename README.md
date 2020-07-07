@@ -10,6 +10,7 @@
 
 * [https://www.避风港.site](https://www.避风港.site)
 * [https://www.bfgnet.top](https://www.bfgnet.top)
+* [https://www.bfgnet.cc](https://www.bfgnet.cc)
 * [https://www.baisussr.site](https://www.baisussr.site)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
