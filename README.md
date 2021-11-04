@@ -12,12 +12,11 @@
 * [https://www.bfgok.cc](https://www.bfgok.cc)
 * [https://www.bfgok.xyz](https://www.bfgok.xyz)
 * [https://www.bfgnet.icu](https://www.bfgnet.icu)
+* [https://www.bfgnet.top](https://www.bfgnet.top)
+* [https://www.baisussr.site](https://www.baisussr.site)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
-* [https://www.bfgnet.top](https://www.bfgnet.top)
-* [https://www.bfgnet.cc](https://www.bfgnet.cc)
 * [https://www.避风港.site](https://www.避风港.site)
-* [https://www.baisussr.site](https://www.baisussr.site)
 
 #### 有任何疑问请联系电报群组管理
 * 电报通知群组:[避风港交流](https://t.me/joinchat/HeoQ4lkuiwW5Xaqm0Szicw)
