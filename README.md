@@ -7,16 +7,16 @@
 * 主网址(屏蔽国内)：[https://www.避风港.site](https://www.避风港.site)
 
 #### 目前大陆能正常访问地址
-* [https://www.bfgok.com](https://www.bfgok.com)
-* [https://www.bfgok.top](https://www.bfgok.top)
-* [https://www.bfgok.cc](https://www.bfgok.cc)
-* [https://www.bfgok.xyz](https://www.bfgok.xyz)
-* [https://www.bfgnet.icu](https://www.bfgnet.icu)
-* [https://www.bfgnet.top](https://www.bfgnet.top)
-* [https://www.baisussr.site](https://www.baisussr.site)
+* [www.bfgok.com](https://www.bfgok.com "www.bfgok.com")
+* [www.bfgok.top](https://www.bfgok.top "www.bfgok.top")
+* [www.bfgok.cc](https://www.bfgok.cc "www.bfgok.cc")
+* [www.bfgnet.top](https://www.bfgnet.top "www.bfgnet.top")
+* [www.bfg-notice.top](https://www.bfg-notice.top "www.bfg-notice.top")
+* [www.baisussr.site](https://www.baisussr.site "www.baisussr.site")
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
-* [https://www.避风港.site](https://www.避风港.site)
+* [www.bfgnet.icu(屏蔽国内)](https://www.bfgnet.icu "www.bfgnet.icu(屏蔽国内)")
+* [www.bfgok.xyz(屏蔽国内)](https://www.bfgok.xyz "www.bfgok.xyz(屏蔽国内)")
 
 #### 有任何疑问请联系电报群组管理
 * 电报通知群组:[避风港交流](https://t.me/joinchat/HeoQ4lkuiwW5Xaqm0Szicw)
