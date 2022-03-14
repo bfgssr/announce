@@ -15,8 +15,8 @@
 * [www.baisussr.site](https://www.baisussr.site "www.baisussr.site")
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
-* [www.bfgnet.icu(屏蔽国内)](https://www.bfgnet.icu "www.bfgnet.icu(屏蔽国内)")
-* [www.bfgok.xyz(屏蔽国内)](https://www.bfgok.xyz "www.bfgok.xyz(屏蔽国内)")
+* [www.bfgnet.icu](https://www.bfgnet.icu "www.bfgnet.icu")
+* [www.bfgok.xyz](https://www.bfgok.xyz "www.bfgok.xyz")
 
 #### 有任何疑问请联系电报群组管理
 * 电报通知群组:[避风港交流](https://t.me/joinchat/HeoQ4lkuiwW5Xaqm0Szicw)
