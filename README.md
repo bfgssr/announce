@@ -4,7 +4,7 @@
 ### 亲爱的用户，欢迎来到避风港最新地址发布页，希望通过阅读该页面可以帮助阁下找到我们
 
 #### 记住我们的永久地址
-* 主网址(屏蔽国内)：[www.baisussr.site(屏蔽国内)](www.baisussr.site)
+* 主网址(屏蔽国内)：[www.baisussr.site](www.baisussr.site)
 
 #### 目前大陆能正常访问地址
 * [www.bfgok.com](https://www.bfgok.com "www.bfgok.com")
