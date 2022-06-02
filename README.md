@@ -11,11 +11,11 @@
 * [www.bfgok.top](https://www.bfgok.top "www.bfgok.top")
 * [www.bfgok.cc](https://www.bfgok.cc "www.bfgok.cc")
 * [www.bfgnet.top](https://www.bfgnet.top "www.bfgnet.top")
+* [www.bfgnet.icu](https://www.bfgnet.icu "www.bfgnet.icu")
 * [www.bfg-notice.top](https://www.bfg-notice.top "www.bfg-notice.top")
 * [www.baisussr.site](https://www.baisussr.site "www.baisussr.site")
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
-* [www.bfgnet.icu](https://www.bfgnet.icu "www.bfgnet.icu")
 * [www.bfgok.xyz](https://www.bfgok.xyz "www.bfgok.xyz")
 
 #### 有任何疑问请联系电报群组管理
