@@ -10,7 +10,6 @@
 * [www.bfgok.com](https://www.bfgok.com "www.bfgok.com")
 * [www.bfgok.top](https://www.bfgok.top "www.bfgok.top")
 * [www.bfgok.cc](https://www.bfgok.cc "www.bfgok.cc")
-* [www.bfgnet.top](https://www.bfgnet.top "www.bfgnet.top")
 * [www.bfg-notice.top](https://www.bfg-notice.top "www.bfg-notice.top")
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
