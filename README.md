@@ -13,7 +13,7 @@
 * [www.bfglc.com](https://www.bfglc.com "www.bfglc.com")
 * [www.bfg-notice.top](https://www.bfg-notice.top "www.bfg-notice.top")
 
-#### 目前大陆无法正常正常访问地址(需翻墙)
+#### 目前大陆无法正常正常访问地址(以下地址即将废弃！)
 * [www.baisussr.site](https://www.baisussr.site "www.baisussr.site")
 * [www.bfgok.com](https://www.bfgok.com "www.bfgok.com")
 * [www.bfgnet.icu](https://www.bfgnet.icu "www.bfgnet.icu")
