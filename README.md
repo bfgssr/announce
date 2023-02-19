@@ -14,10 +14,7 @@
 * [www.bfg-notice.top](https://www.bfg-notice.top "www.bfg-notice.top")
 
 #### 目前大陆无法正常正常访问地址(以下地址即将废弃！)
-* [www.baisussr.site](https://www.baisussr.site "www.baisussr.site")
 * [www.bfgok.com](https://www.bfgok.com "www.bfgok.com")
-* [www.bfgnet.icu](https://www.bfgnet.icu "www.bfgnet.icu")
-* [www.bfgok.xyz](https://www.bfgok.xyz "www.bfgok.xyz")
 
 #### 有任何疑问请联系电报群组管理
 * 电报通知群组:[避风港交流](https://t.me/+uW2K38n5XkUxODNl)
