@@ -7,11 +7,11 @@
 * 主网址(网址导航页)：[666bfg.com](https://666bfg.com)
 
 #### 目前大陆能正常访问地址
-* [www.bfgbfg.com](https://www.bfgbfg.com "www.bfgbfg.com")
-* [www.bfgok.top](https://www.bfgok.top "www.bfgok.top")
-* [www.bfgok.cc](https://www.bfgok.cc "www.bfgok.cc")
-* [www.bfglc.com](https://www.bfglc.com "www.bfglc.com")
-* [www.bfg-notice.top](https://www.bfg-notice.top "www.bfg-notice.top")
+* [a.bfgbfg.com](https://a.bfgbfg.com "a.bfgbfg.com")
+* [a.bfgok.top](https://a.bfgok.top "a.bfgok.top")
+* [a.bfgok.cc](https://a.bfgok.cc "a.bfgok.cc")
+* [a.bfglc.com](https://a.bfglc.com "a.bfglc.com")
+* [a.bfg-notice.top](https://a.bfg-notice.top "a.bfg-notice.top")
 
 #### 目前大陆无法正常正常访问地址
 * [www.bfgok.com](https://www.bfgok.com "www.bfgok.com")
